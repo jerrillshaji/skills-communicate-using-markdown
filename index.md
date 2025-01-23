@@ -5,3 +5,5 @@
 ##### heading 5
 ###### heading 6
 ## Hello World
+
+![Yaktocat image](https://octodex.github.com/images/yaktocat.png)
